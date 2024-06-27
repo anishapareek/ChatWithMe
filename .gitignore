@@ -1,0 +1,109 @@
+# Xcode
+#
+build/
+DerivedData/
+*.hmap
+*.ipa
+*.xcuserstate
+!default.mode1v3
+!default.mode2v3
+!default.pbxuser
+
+# Xcode temporary files
+#
+*.moved-aside
+*.xcuserstate
+
+# Xcode build folders
+#
+build/
+
+# CocoaPods
+#
+Pods/
+Podfile.lock
+
+# Carthage
+#
+Carthage/Build/
+
+# Swift Package Manager
+#
+Packages
+# Add this line if you have a workspace made with SPM
+*.xcodeproj/project.xcworkspace/xcshareddata/swiftpm/Package.resolved
+
+# Accio dependency management
+#
+.accio/
+
+# Xcode patch files
+#
+*.xcodeproj/*.pbxuser
+*.xcodeproj/project.pbxproj$
+
+# Xcode workspace files
+#
+*.xcworkspace/contents.xcworkspacedata
+*.xcworkspace/xcuserdata
+
+# Xcode scheme files
+#
+xcuserdata
+
+# Playgrounds
+#
+timeline.xctimeline
+playground.xcworkspace
+
+# Swift Package Manager
+#
+.build/
+
+# User-specific files
+#
+*.xcuserstate
+*.xcscmblueprint
+
+# Others
+#
+*.xccheckout
+*.xcscmblueprint
+*.moved-aside
+
+# SwiftPM
+#
+.build/
+.swiftpm/xcode
+
+# IDE
+#
+.idea/
+*.iml
+
+# Fastlane
+#
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots
+fastlane/test_output
+fastlane/*.lock
+
+# App files
+#
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# Xcode Automatically generated project files
+#
+*.pbxproj
+xcuserdata/
+*.xcuserdatad
+
+# Shared workspace settings
+#
+*.xcworkspace/contents.xcworkspacedata
+*.xcworkspace/xcshareddata
+
+Secrets.plist
