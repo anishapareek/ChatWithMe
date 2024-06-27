@@ -11,6 +11,8 @@
 		F818755C2C2D85B500738CA5 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F818755B2C2D85B500738CA5 /* ContentView.swift */; };
 		F818755E2C2D85B700738CA5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F818755D2C2D85B700738CA5 /* Assets.xcassets */; };
 		F81875612C2D85B700738CA5 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F81875602C2D85B700738CA5 /* Preview Assets.xcassets */; };
+		F81875682C2D903700738CA5 /* Secrets.plist in Resources */ = {isa = PBXBuildFile; fileRef = F81875672C2D903700738CA5 /* Secrets.plist */; };
+		F818756A2C2D90D400738CA5 /* CohereAPI.swift in Sources */ = {isa = PBXBuildFile; fileRef = F81875692C2D90D400738CA5 /* CohereAPI.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +21,8 @@
 		F818755B2C2D85B500738CA5 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		F818755D2C2D85B700738CA5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F81875602C2D85B700738CA5 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		F81875672C2D903700738CA5 /* Secrets.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Secrets.plist; sourceTree = "<group>"; };
+		F81875692C2D90D400738CA5 /* CohereAPI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CohereAPI.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +59,8 @@
 				F818755B2C2D85B500738CA5 /* ContentView.swift */,
 				F818755D2C2D85B700738CA5 /* Assets.xcassets */,
 				F818755F2C2D85B700738CA5 /* Preview Content */,
+				F81875672C2D903700738CA5 /* Secrets.plist */,
+				F81875692C2D90D400738CA5 /* CohereAPI.swift */,
 			);
 			path = ChatWithMe;
 			sourceTree = "<group>";
@@ -126,6 +132,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				F81875612C2D85B700738CA5 /* Preview Assets.xcassets in Resources */,
+				F81875682C2D903700738CA5 /* Secrets.plist in Resources */,
 				F818755E2C2D85B700738CA5 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -139,6 +146,7 @@
 			files = (
 				F818755C2C2D85B500738CA5 /* ContentView.swift in Sources */,
 				F818755A2C2D85B500738CA5 /* ChatWithMeApp.swift in Sources */,
+				F818756A2C2D90D400738CA5 /* CohereAPI.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
