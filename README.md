@@ -1,10 +1,14 @@
 # ChatWithMe
 
-ChatWithMe is a simple iOS application built using SwiftUI that interacts with the Cohere `/chat` API to generate chat responses.
+ChatWithMe is a simple iOS application built using SwiftUI that interacts with the Cohere `/chat` API to generate chat responses.  
 
-<p align="left">
-   <img src="https://github.com/anishapareek/ChatWithMe/assets/38833637/a72240d6-5119-4be4-93c2-56b805fb6b8f" alt="IMG_4411" width="50%"/>
-</p>
+
+<p float="left">
+  <img src="https://github.com/anishapareek/ChatWithMe/assets/38833637/ee38a1bc-7bf1-4b20-afdf-e2ee94351ffd" alt="IMG_4411" width="300" />
+   &nbsp;
+  <img src="https://github.com/anishapareek/ChatWithMe/assets/38833637/a72240d6-5119-4be4-93c2-56b805fb6b8f" alt="IMG_4411" width="300" /> 
+</p>  
+
 
 ## Features
 
